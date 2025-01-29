@@ -1,6 +1,6 @@
 [project]
 name = "cloudcoil.models.knative_eventing"
-version = "0.0.0"
+version = "1.17.1.0"
 description = "Versioned knative-eventing models for cloudcoil"
 authors = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
 maintainers = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
