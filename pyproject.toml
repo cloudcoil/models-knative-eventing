@@ -81,5 +81,8 @@ only-include = ["cloudcoil"]
 # Unique name for the models
 # This will be used as the name for the setuptools entrypoints
 namespace = "cloudcoil.models.knative_eventing"
-input = "https://github.com/knative/eventing/releases/download/knative-v1.17.1/eventing-crds.yaml"
+# Split the crl urls by comma
+input = [
+    "https://github.com/knative/eventing/releases/download/knative-v1.17.1/eventing-crds.yaml",
+]
 crd-namespace = "dev.knative"
