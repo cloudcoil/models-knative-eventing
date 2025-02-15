@@ -1,6 +1,11 @@
 # cloudcoil-models-knative-eventing
 
 Versioned knative-eventing models for cloudcoil.
+
+[![PyPI](https://img.shields.io/pypi/v/cloudcoil.models.knative_eventing.svg)](https://pypi.python.org/pypi/cloudcoil.models.knative_eventing)
+[![Downloads](https://static.pepy.tech/badge/cloudcoil.models.knative_eventing)](https://pepy.tech/project/cloudcoil.models.knative_eventing)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/license/apache-2-0/)
+[![CI](https://github.com/cloudcoil/models-knative-eventing/actions/workflows/ci.yml/badge.svg)](https://github.com/cloudcoil/models-knative-eventing/actions/workflows/ci.yml)
 > [!WARNING]  
 > This repository is auto-generated from the [cloudcoil repository](https://github.com/cloudcoil/cloudcoil/tree/main/models/knative-eventing). Please do not submit pull requests here. Instead, submit them to the main repository at https://github.com/cloudcoil/cloudcoil.
 
