@@ -1,0 +1,21 @@
+[
+  "__init__.py",
+  "_lookup.py",
+  "eventing_knative_dev/__init__.py",
+  "eventing_knative_dev/v1.py",
+  "eventing_knative_dev/v1alpha1.py",
+  "eventing_knative_dev/v1beta1.py",
+  "eventing_knative_dev/v1beta2.py",
+  "eventing_knative_dev/v1beta3.py",
+  "flows_knative_dev/__init__.py",
+  "flows_knative_dev/v1.py",
+  "messaging_knative_dev/__init__.py",
+  "messaging_knative_dev/v1.py",
+  "py.typed",
+  "sinks_knative_dev/__init__.py",
+  "sinks_knative_dev/v1alpha1.py",
+  "sources_knative_dev/__init__.py",
+  "sources_knative_dev/v1.py",
+  "sources_knative_dev/v1alpha1.py",
+  "sources_knative_dev/v1beta2.py"
+]
