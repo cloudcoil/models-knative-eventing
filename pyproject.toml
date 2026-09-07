@@ -74,6 +74,7 @@ omit = ["cloudcoil/models/**"]
 only-include = ["cloudcoil"]
 
 [[tool.cloudcoil.codegen.models]]
+# Python package for generated models
 namespace = "cloudcoil.models.knative_eventing"
 input = [
     "https://github.com/knative/eventing/releases/download/knative-v1.23.0/eventing-crds.yaml",
